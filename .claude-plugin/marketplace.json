@@ -661,6 +661,19 @@
       "category": "business"
     },
     {
+      "name": "enterprise-contract-strategy",
+      "source": "./plugins/enterprise-contract-strategy",
+      "description": "Enterprise contract strategy for global EMS/contract manufacturing: commercial negotiation, risk quantification, working capital protection, and clause-level playbooks that treat contracts as commercial operating systems",
+      "version": "1.0.0",
+      "author": {
+        "name": "Seth Hobson",
+        "email": "seth@major7apps.com"
+      },
+      "homepage": "https://github.com/wshobson/agents",
+      "license": "MIT",
+      "category": "business"
+    },
+    {
       "name": "customer-sales-automation",
       "source": "./plugins/customer-sales-automation",
       "description": "Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration",

@@ -1,0 +1,10 @@
+{
+  "name": "enterprise-contract-strategy",
+  "version": "1.0.0",
+  "description": "Enterprise contract strategy for global EMS/contract manufacturing: commercial negotiation, risk quantification, working capital protection, and clause-level playbooks that treat contracts as commercial operating systems",
+  "author": {
+    "name": "Seth Hobson",
+    "email": "seth@major7apps.com"
+  },
+  "license": "MIT"
+}

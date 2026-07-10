@@ -239,13 +239,14 @@ Next.js, React + Vite, and Node.js project setup with pnpm and TypeScript best p
 | **seo-analysis-monitoring**    | Content analysis and authority building | `/plugin install seo-analysis-monitoring`    |
 | **content-marketing**          | Content strategy and web research       | `/plugin install content-marketing`          |
 
-### 💼 Business (3 plugins)
+### 💼 Business (4 plugins)
 
-| Plugin                        | Description                          | Install                                     |
-| ----------------------------- | ------------------------------------ | ------------------------------------------- |
-| **business-analytics**        | KPI tracking and financial reporting | `/plugin install business-analytics`        |
-| **hr-legal-compliance**       | HR policies and legal templates      | `/plugin install hr-legal-compliance`       |
-| **customer-sales-automation** | Support and sales automation         | `/plugin install customer-sales-automation` |
+| Plugin                           | Description                                | Install                                        |
+| -------------------------------- | ------------------------------------------ | ---------------------------------------------- |
+| **business-analytics**           | KPI tracking and financial reporting       | `/plugin install business-analytics`           |
+| **hr-legal-compliance**          | HR policies and legal templates            | `/plugin install hr-legal-compliance`          |
+| **enterprise-contract-strategy** | EMS contract negotiation and risk strategy | `/plugin install enterprise-contract-strategy` |
+| **customer-sales-automation**    | Support and sales automation               | `/plugin install customer-sales-automation`    |
 
 ### 💻 Languages (7 plugins)
 

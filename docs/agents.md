@@ -195,6 +195,7 @@ Complete reference for all **100 specialized AI agents** organized by category w
 | [customer-support](../plugins/customer-sales-automation/agents/customer-support.md) | sonnet | Support tickets, FAQ responses, customer communication  |
 | [hr-pro](../plugins/hr-legal-compliance/agents/hr-pro.md)                           | opus   | HR operations, policies, employee relations             |
 | [legal-advisor](../plugins/hr-legal-compliance/agents/legal-advisor.md)             | opus   | Privacy policies, terms of service, legal documentation |
+| [enterprise-contract-strategist](../plugins/enterprise-contract-strategy/agents/enterprise-contract-strategist.md) | opus   | EMS/contract manufacturing negotiation, risk quantification, commercial strategy |
 
 ### SEO & Content Optimization
 
